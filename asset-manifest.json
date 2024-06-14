@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/food-nutritions/static/css/main.97139d6f.css",
+    "main.js": "/food-nutritions/static/js/main.5412c087.js",
+    "static/js/787.06519866.chunk.js": "/food-nutritions/static/js/787.06519866.chunk.js",
+    "static/media/logo.jpeg": "/food-nutritions/static/media/logo.9a2b6f7b27c66745f6a7.jpeg",
+    "static/media/Screenshot from 2024-06-13 16-12-01.png": "/food-nutritions/static/media/Screenshot from 2024-06-13 16-12-01.91f7ab5b2ccd22286b45.png",
+    "index.html": "/food-nutritions/index.html",
+    "main.97139d6f.css.map": "/food-nutritions/static/css/main.97139d6f.css.map",
+    "main.5412c087.js.map": "/food-nutritions/static/js/main.5412c087.js.map",
+    "787.06519866.chunk.js.map": "/food-nutritions/static/js/787.06519866.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.97139d6f.css",
+    "static/js/main.5412c087.js"
+  ]
+}
