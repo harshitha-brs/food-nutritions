@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "food-nutrition/static/css/main.6171cf6e.css",
+    "main.js": "food-nutrition/static/js/main.0f8ff816.js",
+    "static/js/787.06519866.chunk.js": "food-nutrition/static/js/787.06519866.chunk.js",
+    "static/media/background.jpg": "food-nutrition/static/media/background.6f74711fe976c0a8f7be.jpg",
+    "static/media/Screenshot from 2024-06-13 16-14-05.png": "food-nutrition/static/media/Screenshot from 2024-06-13 16-14-05.ac199d7545917fbf8717.png",
+    "static/media/Screenshot from 2024-06-13 16-12-01.png": "food-nutrition/static/media/Screenshot from 2024-06-13 16-12-01.91f7ab5b2ccd22286b45.png",
+    "index.html": "food-nutrition/index.html",
+    "main.6171cf6e.css.map": "food-nutrition/static/css/main.6171cf6e.css.map",
+    "main.0f8ff816.js.map": "food-nutrition/static/js/main.0f8ff816.js.map",
+    "787.06519866.chunk.js.map": "food-nutrition/static/js/787.06519866.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6171cf6e.css",
+    "static/js/main.0f8ff816.js"
+  ]
+}
